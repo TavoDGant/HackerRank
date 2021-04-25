@@ -1,4 +1,4 @@
-package com.tdgames;
+package com.tdgames.challenges;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -36,6 +36,6 @@ public class LoopsChallenges {
             //x.forEach(nb -> System.out.print(nb + " "));
             
         }
-        //in.close();
+        in.close();
     }
 	}
